@@ -1,2 +1,2 @@
-# AVR
-AVR Microcontroller simple codes
+# ATmega16
+Simple AVR Microcontroller projects using ATmega16 microcontroller.
