@@ -1,2 +1,2 @@
-# Interfacing ATmega16 with a Servo Motor
-Set servo shaft at fixed positions.
+# ATmega16 
+Simple projects using ATmega16 Microcontroller.
